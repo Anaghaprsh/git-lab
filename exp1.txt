@@ -1,5 +1,5 @@
-git config --global user.name "Alice"
-git config --global user.email "alice@example.com"
+git config --global user.name "anaghaprsh"
+git config --global user.email "anaghaprsh@example.com"
 git init
 echo "Hello Git" > file.txt
 git add file.txt
